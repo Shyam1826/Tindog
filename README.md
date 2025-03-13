@@ -1,4 +1,5 @@
 # TinDog Project
+To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/Shyam1826/Tindog/blob/main/Bootstrap-snippets.pdf
 
 ## SVGs:
