@@ -1,6 +1,5 @@
 # TinDog Project
-
-
+https://github.com/Shyam1826/Tindog/blob/main/Bootstrap-snippets.pdf
 
 ## SVGs:
 
